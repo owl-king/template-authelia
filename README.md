@@ -8,6 +8,7 @@ This module includes:
 - Redis
 - Local file as storage ( Please consider Remote DB if you already have one)
 - Configs with traefik ( Basic setup with traefik can be found [Template Traefik](https://github.com/owl-king/template-traefik) )
+- Run on *traefik* network
 
 ## Deployment
 
